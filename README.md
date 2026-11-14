@@ -1,3 +1,5 @@
+![CI](https://github.com/Hemanathan1/shop_agent/actions/workflows/ci.yml/badge.svg)
+
 # ShopAgent
 
 A shopping assistant for an online electronics and footwear store. The user chats in plain English, and Gemini decides which tool to call: search products, check stock, look up an order, or start a return. Business rules are enforced in code, not in the prompt.
@@ -86,4 +88,3 @@ tests/          pytest tests for the tools
 - Add a `check_inventory` hint so stock questions return the exact count.
 
 -----------------------------------------------------------------------
-![CI](https://github.com/Hemanathan1/shop_agent/actions/workflows/ci.yml/badge.svg)
