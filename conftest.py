@@ -1,0 +1,1 @@
+# Lets pytest import tools.py and shop_data.py from the project root.
