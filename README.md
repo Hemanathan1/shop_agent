@@ -84,3 +84,6 @@ tests/          pytest tests for the tools
 - The agent has no login, so any order id can be queried.
 - Add tests that check which tool the agent picks for sample prompts.
 - Add a `check_inventory` hint so stock questions return the exact count.
+
+-----------------------------------------------------------------------
+![CI](https://github.com/Hemanathan1/shop_agent/actions/workflows/ci.yml/badge.svg)
